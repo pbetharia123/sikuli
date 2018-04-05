@@ -14,7 +14,7 @@ public static WebDriver driver;
 @Test
 	public static void b() throws MalformedURLException, InterruptedException{
 		// TODO Auto-generated method stub
-	Thread.sleep(15000);	
+	//Thread.sleep(15000);	
 		String URL = "http://www.facebook.com";
 		//String Node = "http://192.168.0.102:5555/wd/hub";
 		//new DesiredCapabilities();
