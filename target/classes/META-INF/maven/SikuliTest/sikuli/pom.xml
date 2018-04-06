@@ -22,7 +22,7 @@
         <execution>
          <phase>test</phase>
          <goals>
-          <goal>java</goal>
+          <goal>compile</goal>
          </goals>
         <configuration>
           <source>1.8</source>
