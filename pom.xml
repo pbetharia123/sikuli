@@ -50,12 +50,7 @@
 		      <scope>test</scope>
 		    </dependency>
 		    
-		     <dependency>
-		      <groupId>org.monte</groupId>
-		      <artifactId>screen-recorder</artifactId>
-		      <version>0.7.7</version>
-		     </dependency>
-    
+		         
   </dependencies>
   
    
