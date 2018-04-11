@@ -1,8 +1,12 @@
 package SikuliTest.sikuli;
 
 import java.awt.AWTException;
+import java.awt.GraphicsConfiguration;
+import java.awt.Rectangle;
 import java.io.IOException;
 import java.util.Date;
+
+import org.monte.media.Format;
 import org.sikuli.script.FindFailed;
 import org.sikuli.script.Key;
 import org.sikuli.script.KeyModifier;
@@ -10,6 +14,8 @@ import org.sikuli.script.Pattern;
 import org.sikuli.script.Screen;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
+
+import helper.SpecializedScreenRecorder;
 
 
 public class launchTab {
@@ -64,7 +70,8 @@ public class launchTab {
 		System.out.println("This is MySQL test");
 		screenRecorder src = new screenRecorder();
 		src.startRecord();
-			
+				
+				
 		Screen s = new Screen();
 		//s.click("img/tablaue_desktop_icon.png");
 		//s.doubleClick("img/tablaue_desktop_icon.png");

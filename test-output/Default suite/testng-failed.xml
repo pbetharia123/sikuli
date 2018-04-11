@@ -5,10 +5,14 @@
     <classes>
       <class name="SikuliTest.sikuli.launchTab">
         <methods>
-          <include name="mysqltest"/>
           <include name="openApp"/>
         </methods>
       </class> <!-- SikuliTest.sikuli.launchTab -->
+      <class name="SikuliTest.sikuli.chromeLaunch">
+        <methods>
+          <include name="b"/>
+        </methods>
+      </class> <!-- SikuliTest.sikuli.chromeLaunch -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

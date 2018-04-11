@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="58.812" tests="1" errors="0" skipped="0" failures="1">
+<testsuite name="TestSuite" time="44.831" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_161\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="D:\New folder (3)\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1234502797850193340.tmp"/>
+    <property name="classworlds.conf" value="D:\New folder (3)\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2772413586127871520.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_161\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_144/bin/server;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/amd64;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files (x86)\nodejs\;C:\Program Files\Geth;C:\Program Files (x86)\Java\jre1.8.0_144\bin;D:\Maven\apache-maven-3.5.3-bin\apache-maven-3.5.3\bin;C:\Users\10619077\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\10619077\AppData\Local\Programs\Python\Python36\;C:\Users\10619077\AppData\Local\Microsoft\WindowsApps;C:\Users\10619077\AppData\Roaming\npm;D:\EclipseMArs\eclipse;;C:\Program Files (x86)\HP\Unified Functional Testing\\bin64;."/>
     <property name="surefire.test.class.path" value="D:\New folder (3)\sikuli\target\test-classes;D:\New folder (3)\sikuli\target\classes;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-java\3.11.0\selenium-java-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-api\3.11.0\selenium-api-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.11.0\selenium-chrome-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.11.0\selenium-edge-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.11.0\selenium-firefox-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.11.0\selenium-ie-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.11.0\selenium-opera-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.11.0\selenium-remote-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.11.0\selenium-safari-driver-3.11.0.jar;C:\Users\10619077\.m2\repository\org\seleniumhq\selenium\selenium-support\3.11.0\selenium-support-3.11.0.jar;C:\Users\10619077\.m2\repository\net\bytebuddy\byte-buddy\1.7.9\byte-buddy-1.7.9.jar;C:\Users\10619077\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\10619077\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\10619077\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\10619077\.m2\repository\com\google\code\gson\gson\2.8.2\gson-2.8.2.jar;C:\Users\10619077\.m2\repository\com\google\guava\guava\23.6-jre\guava-23.6-jre.jar;C:\Users\10619077\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\10619077\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\10619077\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\10619077\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\10619077\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\10619077\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\10619077\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\10619077\.m2\repository\com\squareup\okhttp3\okhttp\3.9.1\okhttp-3.9.1.jar;C:\Users\10619077\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\10619077\.m2\repository\org\sikuli\sikuli-api\1.2.0\sikuli-api-1.2.0.jar;C:\Users\10619077\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\10619077\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;D:\New folder (3)\sikuli\src\lib\sikulixapi.jar;D:\New folder (3)\sikuli\src\lib\MonteScreenRecorder.jar;C:\Users\10619077\.m2\repository\org\sikuli\sikuli-core\1.2.2\sikuli-core-1.2.2.jar;C:\Users\10619077\.m2\repository\org\bytedeco\javacpp\0.9\javacpp-0.9.jar;C:\Users\10619077\.m2\repository\org\bytedeco\javacpp-presets\opencv\2.4.9-0.9\opencv-2.4.9-0.9.jar;C:\Users\10619077\.m2\repository\org\piccolo2d\piccolo2d-extras\1.3.1\piccolo2d-extras-1.3.1.jar;C:\Users\10619077\.m2\repository\org\piccolo2d\piccolo2d-core\1.3.1\piccolo2d-core-1.3.1.jar;C:\Users\10619077\.m2\repository\org\slf4j\slf4j-api\1.6.6\slf4j-api-1.6.6.jar;C:\Users\10619077\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.18.1\surefire-testng-utils-2.18.1.jar;C:\Users\10619077\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.18.1\surefire-grouper-2.18.1.jar;"/>
@@ -64,19 +64,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase name="mysqltest" classname="SikuliTest.sikuli.launchTab" time="58.812">
-    <failure message="img/mysqlservername.png: (268x38) in S(0)[0,0 1366x768] E:Y, T:3.0" type="org.sikuli.script.FindFailed">org.sikuli.script.FindFailed: img/mysqlservername.png: (268x38) in S(0)[0,0 1366x768] E:Y, T:3.0
-	at org.sikuli.script.Region.wait(Region.java:2782)
-	at org.sikuli.script.Region.find(Region.java:2329)
-	at org.sikuli.script.Region.getLocationFromTarget(Region.java:3238)
-	at org.sikuli.script.Region.click(Region.java:3736)
-	at org.sikuli.script.Region.click(Region.java:3721)
-	at SikuliTest.sikuli.launchTab.mysqltest(launchTab.java:69)
-</failure>
-    <system-out><![CDATA[This is MySQL test
-11:13:06:965 >> Loading HP UFT Java Support (version 12.52.0.0) (SUN 1.8.0_161)
-Recording has started
-[log] CLICK on L(64,570)@S(0)[0,0 1366x768] (563 msec)
-]]></system-out>
-  </testcase>
+  <testcase name="mysqltest" classname="SikuliTest.sikuli.launchTab" time="44.831"/>
 </testsuite>

@@ -3,7 +3,9 @@
 <suite name="Default suite">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="SikuliTest.sikuli.launchTab"/>
+       <class name="SikuliTest.sikuli.launchTab"/>
+     <!--  <class name="mysql_all_test.MySQL_connection"/>-->
+       <!-- <class name="platform_test.Qliksense_install"/>-->
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Default suite -->
